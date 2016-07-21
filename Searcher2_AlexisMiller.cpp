@@ -1,5 +1,4 @@
 // Alexis Miller
-// 15195414
 // Date: July 19
 
 #include <iostream>
